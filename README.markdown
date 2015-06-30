@@ -5,6 +5,8 @@ This plugin contains Vim syntax highlighting and folding support for TIS-100
 save files.  It's nice if you want to edit them in Vim (e.g.: to play around
 with longer scripts before trying to compress them to 15 lines).
 
+![screenshot](http://i.imgur.com/HnpZMlU.png)
+
 Installation
 ------------
 
